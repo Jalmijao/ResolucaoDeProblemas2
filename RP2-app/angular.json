@@ -102,5 +102,8 @@
       }
     }
   },
-  "defaultProject": "RP2-app"
+  "defaultProject": "RP2-app",
+  "cli": {
+    "analytics": "42536980-662a-4919-a1e4-227873fb7db7"
+  }
 }
